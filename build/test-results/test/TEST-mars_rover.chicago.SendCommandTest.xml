@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mars_rover.chicago.SendCommandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-27T17:13:34" hostname="NGARCIA-NB" time="0.005">
+  <properties/>
+  <testcase name="goes forward" classname="mars_rover.chicago.SendCommandTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

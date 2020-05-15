@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mars_rover.london.inner.MarRoverShould" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-27T17:13:34" hostname="NGARCIA-NB" time="0.0">
+  <properties/>
+  <testcase name="increase its 'y' by 1 when facing north and sent an 'f' command" classname="mars_rover.london.inner.MarRoverShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

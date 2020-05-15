@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mars_rover.london.inner.SendCommandsShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-27T17:13:34" hostname="NGARCIA-NB" time="1.976">
+  <properties/>
+  <testcase name="ask for the repository to persist the rover" classname="mars_rover.london.inner.SendCommandsShould" time="1.936"/>
+  <testcase name="ask the repository for the rover of said id" classname="mars_rover.london.inner.SendCommandsShould" time="0.004"/>
+  <testcase name="ask for the rover to handle the commands" classname="mars_rover.london.inner.SendCommandsShould" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
